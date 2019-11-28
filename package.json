@@ -1,0 +1,12 @@
+{
+  "name": "maximizando-soma",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "app": "node ."
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
